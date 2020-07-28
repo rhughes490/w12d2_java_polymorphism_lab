@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f18add0-de92-43a2-94c7-cd049eee149b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.floo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/brief.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/onlineAccount/OnlineAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/onlineAccount/ReportingSoftware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/paymentCard/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/paymentCard/DebitCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/paymentCard/GiftCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/paymentCard/IChargeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/paymentCard/PaymentCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GiftCardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/onlineAccount/OnlineAccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/onlineAccount/ReportingSoftwareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/paymentCard/CreditCardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/paymentCard/DebitCardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/paymentCard/PaymentCardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w12d2_java_polymorphism_lab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/w12d2_java_polymorphism_lab.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -9,7 +51,60 @@
     </option>
   </component>
   <component name="ProjectId" id="1fJoeYuhP9dGcgeQGTAz3s11GdD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="paymentCard" />
+      <recent name="onlineAccount" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f18add0-de92-43a2-94c7-cd049eee149b" name="Default Changelist" comment="" />
+      <created>1595945651586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595945651586</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
