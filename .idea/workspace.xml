@@ -1,31 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0f18add0-de92-43a2-94c7-cd049eee149b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.floo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/brief.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/onlineAccount/OnlineAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/onlineAccount/ReportingSoftware.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/paymentCard/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/paymentCard/DebitCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/paymentCard/GiftCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/paymentCard/IChargeable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/paymentCard/PaymentCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/GiftCardTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/onlineAccount/OnlineAccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/onlineAccount/ReportingSoftwareTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/paymentCard/CreditCardTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/paymentCard/DebitCardTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/paymentCard/PaymentCardTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w12d2_java_polymorphism_lab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/w12d2_java_polymorphism_lab.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/paymentCard/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/paymentCard/CreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/paymentCard/GiftCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/paymentCard/GiftCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/paymentCard/PaymentCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/paymentCard/PaymentCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GiftCardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GiftCardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/paymentCard/CreditCardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/paymentCard/CreditCardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/paymentCard/PaymentCardTest.java" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +48,6 @@
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
@@ -54,8 +56,14 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -68,17 +76,37 @@
       <recent name="onlineAccount" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RunManager" selected="JUnit.CreditCardTest">
+    <configuration name="CreditCardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="w12d2_java_polymorphism_lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="paymentCard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="paymentCard" />
+      <option name="MAIN_CLASS_NAME" value="paymentCard.CreditCardTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GiftCardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="w12d2_java_polymorphism_lab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GiftCardTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <item itemvalue="JUnit.CreditCardTest" />
+        <item itemvalue="JUnit.GiftCardTest" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -103,6 +131,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
